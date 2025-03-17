@@ -1,0 +1,14 @@
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\bin\Debug\net9.0\CarChallenge.exe
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\bin\Debug\net9.0\CarChallenge.deps.json
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\bin\Debug\net9.0\CarChallenge.runtimeconfig.json
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\bin\Debug\net9.0\CarChallenge.dll
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\bin\Debug\net9.0\CarChallenge.pdb
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.dll
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\refint\CarChallenge.dll
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.pdb
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.genruntimeconfig.cache
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\ref\CarChallenge.dll
