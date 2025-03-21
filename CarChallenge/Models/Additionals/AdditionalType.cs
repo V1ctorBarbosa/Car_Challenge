@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace CarChallenge.Models.Additionals;
 
-namespace CarChallenge.Models.Additionals
+public enum AdditionalType
 {
-    internal class AdditionalType
-    {
-    }
+    GPS,
+    CarSeat,
+    Refrigerator 
 }
