@@ -12,3 +12,4 @@ C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.
 C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.pdb
 C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.genruntimeconfig.cache
 C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\ref\CarChallenge.dll
+C:\Users\conta\OneDrive\Documentos\Dev\CarChallenge\CarChallenge\obj\Debug\net9.0\CarChallenge.sourcelink.json
